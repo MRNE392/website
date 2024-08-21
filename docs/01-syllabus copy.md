@@ -1,35 +1,31 @@
 # Syllabus {-}
 
-**Course:** ENST/MRNE 392 Field Research Methods Fall 2024  
-**Lecture:** Tues, Thurs 8:30 - 9:45 Schaefer 111  
-**Lab:** Thurs 1:10-4:30 Schaefer 112 <br />
-**Instructor:** Dr. Cassie Gurbisz  (you can call me Cassie) <br />
-**Email:** cbgurbisz@smcm.edu <br />
-**Office hours:** Tuesdays 12:00-2:00 Kent Hall 308 <br /> 
-**Website:** https://MRNE392.github.io/website/
+**Course:** ENST/MRNE 395 Coastal Monitoring Fall 2024  
+**Class time and location:** Fridays 1:10 - 4:20 Schaefer Hall  
+**Instructor:** Dr. Cassie Gurbisz  (you're welcome to call me Cassie)  
+**Email:** cbgurbisz@smcm.edu  
+**Office hours:** Tuesdays 12:00-2:00 Kent Hall 308  
+**Website:** https://smr-monitoring.github.io/MRNE395-2024FA/
 
 ### Course description {-}
-In this course, you will learn methods of sampling and analyzing the natural environment. An emphasis will be placed on research question formulation and sampling design. By the end of the course, students will be able to independently develop a field study, collect and analyze field data, and present their findings in a poster presentation. We will focus on our local estuarine environment, although the general research process covered can be applied to any system.
+Students will learn how to conduct ecological monitoring on the St. Mary’s River, a tidal tributary of Chesapeake Bay. We will use a variety of sampling methods to measure chemical concentrations, animal abundances, and metabolic rates in the estuarine environment. We'll also use quality assurance/quality control measures to clean the data we collect before publishing it to our publicly available data dashboard. This 2-credit course meets once per week and also requires students to work in groups outside of class meetings to collect and process samples. Students should be prepared to work outdoors in inclement weather.
 
 ### Course materials {-}
-All of the readings in this class are either free or will be provided by the instructor.
+All of the readings and software in this class are either free or will be provided by the instructor.
 
 ### Working outside {-}
-This course involves a lot of outdoor work. Sometimes the weather will be beautiful, but more often it will be hot, sunny, buggy, cold, wet, windy, or a combination of these uncomfortable conditions. We will go out rain or shine unless the conditions are unsafe. It is important that you come to class prepared with whatever you need to keep yourself safe and comfortable outside. It's always a good idea to have a hat and sunscreen and a waterproof layer, even if rain is not in the forecast. For boat work, it is almost always much cooler on the water than land, especially in the spring and winter, so come prepared with multiple layers. Closed-toe shoes are required on the boat. Crocs or sneakers are fine in warm weather. Rubber boots are ideal in cooler weather but sneakers or anything with a grippy rubber sole are fine too. Do not wear flip-flops, heels, or nice shoes that can't get wet or that could scuff up the boat deck. 
+This course involves a lot of outdoor work. Sometimes the weather will be beautiful, but more often it will be hot, sunny, buggy, cold, wet, windy, or a combination of these uncomfortable conditions. We will go out rain or shine unless the conditions are unsafe. It is important that you come to class prepared with whatever you need to keep yourself safe and comfortable outside. It's always a good idea to have a hat and sunscreen and a waterproof layer, even if rain is not in the forecast. For boat work, it is almost always much cooler on the water than land, especially in the spring, fall, and winter, so come prepared with multiple layers. Closed-toe shoes are required on the boat. Crocs or sneakers are fine in warm weather. Rubber boots are ideal in cooler weather but sneakers or anything with a grippy rubber sole are fine too. Do not wear flip-flops, heels, or nice shoes that can't get wet or that could scuff up the boat deck. 
 
-I recommend investing in good rain gear, especially if you plan to continue doing fieldwork on the water beyond this class. [Grundens](https://grundens.com/) is a reputable marine work gear supplier and they have some affordable options. [Outdoor Research](https://www.outdoorresearch.com/) also sells high-quality gear and you can apply for a [student discount](https://www.outdoorresearch.com/pages/vip-program?gad_source=1&gclid=Cj0KCQjwkdO0BhDxARIsANkNcrfTTRmTvBF6i9f4siwcZSvr-3FYPgDXYPUw5zkBXpXfyFCTJc8cJKAaAtSCEALw_wcB). 
+I recommend investing in good rain gear, including a jacket, bibs, and boots, especially if you plan to continue doing fieldwork on the water beyond this class. These items are very nice to have, even if it's not raining, because sampling can be wet and messy. [Grundens](https://grundens.com/) is a reputable marine work gear supplier and they have some affordable options. [Outdoor Research](https://www.outdoorresearch.com/) also sells high-quality gear and you can apply for a [student discount](https://www.outdoorresearch.com/pages/vip-program?gad_source=1&gclid=Cj0KCQjwkdO0BhDxARIsANkNcrfTTRmTvBF6i9f4siwcZSvr-3FYPgDXYPUw5zkBXpXfyFCTJc8cJKAaAtSCEALw_wcB). 
 
 ### Learning outcomes {-}
-At the completion of this course, students will be able to design and conduct ecological field investigations using proper scientific methods.
+At the completion of this course, students will have an in-depth understanding of why and how we conduct ecological monitoring in coastal systems.
 
 Specific outcomes include being able to:
 
-* Formulate and articulate hypotheses or questions about observed ecological phenomena 
-* Develop and articulate an appropriate field study design to test hypotheses or address research questions
-* Use appropriate methods to collect ecological field data
-* Record and manage detailed ecological data, including field procedures, site observations and quantitative field measurements
-* Analyze observational and experimental field data and report results in the form of a conference-style poster presentation
-* Collaborate effectively with a diverse team of researchers and learners
+* describe the ecological and policy context of coastal monitoring
+* describe coastal monitoring methods and procedures
+* conduct coastal monitoring independently and with a team using correct and appropriate methods and procedures
 
 ### Grading and assessment {-}
 This course uses a variation of "specifications grading," where we rely less on evaluating every assignment with a letter or number and instead focus on making sure we're generally making good progress in our learning. [Research has shown](https://www.alfiekohn.org/article/case-grades/) that grading doesn't improve learning and can sometimes even harm learning. Rather than submitting work "in exchange" for a letter or number grade, most assignments will be evaluated based on whether or not they meet the "specifications," or "specs" of that particular assignment. If the specs are not met, you'll often have the opportunity to revise your assignment until the specs are met so that you have more than one chance to demonstrate your learning. Your final grade will be based on the number of assignments for which you meet the specs and, therefore, demonstrate your mastery of the course topics. With this approach to evaluation, the goal is to emphasize truly becoming an expert in the course content. 

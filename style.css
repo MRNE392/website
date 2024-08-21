@@ -59,29 +59,29 @@ pre code {
 /*------------ TOC --------------*/
 
 .book .book-summary {
-  background: #F3F1E7 ;
+  background: #F5F2EA ;
   border-right: none;
 }
 
 .summary a:hover {
-  color: #D9DA9E !important;
+  color: #C1B98E !important;
 }
 
 .book .book-summary ul.summary li.active>a { /*active TOC links*/
-  color: #A59F6D !important;
+  color: #695A0D !important;
   border-left: solid 4px;
-  border-color: #4379E1;
+  border-color: #695A0D;
   padding-left: 11px !important;
 }
 
 /*-----Body Links-------*/
 
 .book .book-body .page-wrapper .page-inner section.normal a {
-  color: #4379E1;
+  color: #695A0D;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal a:hover {
-color: #D9DA9E; /* darker color when hovering */
+color: #C1B98E; /* darker color when hovering */
 text-decoration: none;
 }
 
@@ -90,14 +90,14 @@ text-decoration: none;
 }
 
 h1, h2, h3, h4 {
-  color: #4379E1;
+  color: #3E1307;
 }
 
 .title {
   font-size: 3em !important;
-  color: #4379E1;
+  color: #3E1307;
  }
 
 .subtitle {
-  color: #A59F6D;
+  color: #3E1307;
 }

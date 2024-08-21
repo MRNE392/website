@@ -9,108 +9,280 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;"> week </th>
    <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> date </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> topic and slides </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> quiz </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> read </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> submit </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> activity </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> topic </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> lesson plan </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> assessment </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> hw </th>
   </tr>
  </thead>
 <tbody>
   <tr>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 2024-08-30 </td>
-   <td style="text-align:left;"> Intro to coastal monitoring </td>
+   <td style="text-align:left;"> 2024-08-27 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Basic water quality measurements </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 2024-08-29 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 2024-08-29 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 2 </td>
-   <td style="text-align:left;"> 2024-09-06 </td>
-   <td style="text-align:left;"> WQ parameters and CTDs </td>
-   <td style="text-align:left;"> Quiz 1: Chesapeake Watershed Agreement </td>
-   <td style="text-align:left;"> Tracking progress </td>
+   <td style="text-align:left;"> 2024-09-03 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> More water quality </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> 2024-09-05 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> 2024-09-05 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 3 </td>
-   <td style="text-align:left;"> 2024-09-13 </td>
-   <td style="text-align:left;"> Data management and NPP </td>
-   <td style="text-align:left;"> Quiz 2: Water quality and filtering </td>
-   <td style="text-align:left;"> Filtering methods </td>
-   <td style="text-align:left;"> Deriving WQ criteria </td>
-   <td style="text-align:left;"> Data entry and NPP </td>
+   <td style="text-align:left;"> 2024-09-10 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> 2024-09-12 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> 2024-09-12 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 4 </td>
-   <td style="text-align:left;"> 2024-09-20 </td>
-   <td style="text-align:left;"> Benthic monitoring </td>
-   <td style="text-align:left;"> Quiz 3: NPP and data management </td>
+   <td style="text-align:left;"> 2024-09-17 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Benthic sampling </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 4 </td>
+   <td style="text-align:left;"> 2024-09-19 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 4 </td>
+   <td style="text-align:left;"> 2024-09-19 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 5 </td>
-   <td style="text-align:left;"> 2024-09-27 </td>
-   <td style="text-align:left;"> Plankton monitoring </td>
+   <td style="text-align:left;"> 2024-09-24 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Benthic monitoring </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 5 </td>
+   <td style="text-align:left;"> 2024-09-26 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 5 </td>
+   <td style="text-align:left;"> 2024-09-26 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 6 </td>
-   <td style="text-align:left;"> 2024-10-04 </td>
-   <td style="text-align:left;"> Continuous monitoring </td>
-   <td style="text-align:left;"> Quiz 4: Plankton monitoring </td>
+   <td style="text-align:left;"> 2024-10-01 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:left;"> 2024-10-03 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:left;"> 2024-10-03 </td>
+   <td style="text-align:left;"> Lab: </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 7 </td>
-   <td style="text-align:left;"> 2024-10-11 </td>
-   <td style="text-align:left;"> Continuous monitoring </td>
-   <td style="text-align:left;"> Quiz 5: Continuous monitoring </td>
+   <td style="text-align:left;"> 2024-10-08 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 7 </td>
+   <td style="text-align:left;"> 2024-10-10 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 7 </td>
+   <td style="text-align:left;"> 2024-10-10 </td>
+   <td style="text-align:left;"> Lab: </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 8 </td>
-   <td style="text-align:left;"> 2024-10-18 </td>
-   <td style="text-align:left;"> NPP measurements </td>
+   <td style="text-align:left;"> 2024-10-15 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> NPP incubations </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:left;"> 2024-10-17 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:left;"> 2024-10-17 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 9 </td>
-   <td style="text-align:left;"> 2024-10-25 </td>
-   <td style="text-align:left;"> Hydrologic monitoring </td>
-   <td style="text-align:left;"> Quiz 6: NPP </td>
+   <td style="text-align:left;"> 2024-10-22 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> NPP data </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 9 </td>
+   <td style="text-align:left;"> 2024-10-24 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 9 </td>
+   <td style="text-align:left;"> 2024-10-24 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 10 </td>
-   <td style="text-align:left;"> 2024-11-01 </td>
-   <td style="text-align:left;"> Water quality monitoring and knot tying </td>
-   <td style="text-align:left;"> Quiz 7: Hydrologic monitoring </td>
+   <td style="text-align:left;"> 2024-10-29 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:left;"> 2024-10-31 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:left;"> 2024-10-31 </td>
+   <td style="text-align:left;"> Lab: </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 11 </td>
-   <td style="text-align:left;"> 2024-11-08 </td>
-   <td style="text-align:left;"> Skills review </td>
+   <td style="text-align:left;"> 2024-11-05 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 11 </td>
+   <td style="text-align:left;"> 2024-11-07 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 11 </td>
+   <td style="text-align:left;"> 2024-11-07 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 12 </td>
+   <td style="text-align:left;"> 2024-11-12 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -118,8 +290,23 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   </tr>
   <tr>
    <td style="text-align:right;"> 12 </td>
-   <td style="text-align:left;"> 2024-11-15 </td>
-   <td style="text-align:left;"> Skills assessment </td>
+   <td style="text-align:left;"> 2024-11-14 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 12 </td>
+   <td style="text-align:left;"> 2024-11-14 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 13 </td>
+   <td style="text-align:left;"> 2024-11-19 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -127,8 +314,23 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   </tr>
   <tr>
    <td style="text-align:right;"> 13 </td>
-   <td style="text-align:left;"> 2024-11-22 </td>
-   <td style="text-align:left;"> DIY monitoring technology </td>
+   <td style="text-align:left;"> 2024-11-21 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 13 </td>
+   <td style="text-align:left;"> 2024-11-21 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 14 </td>
+   <td style="text-align:left;"> 2024-11-26 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -136,8 +338,23 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   </tr>
   <tr>
    <td style="text-align:right;"> 14 </td>
-   <td style="text-align:left;"> 2024-11-29 </td>
-   <td style="text-align:left;"> No class - Thanksgiving </td>
+   <td style="text-align:left;"> 2024-11-28 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 14 </td>
+   <td style="text-align:left;"> 2024-11-28 </td>
+   <td style="text-align:left;"> Lab: </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 15 </td>
+   <td style="text-align:left;"> 2024-12-03 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -145,18 +362,16 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   </tr>
   <tr>
    <td style="text-align:right;"> 15 </td>
-   <td style="text-align:left;"> 2024-12-06 </td>
-   <td style="text-align:left;"> DIY monitoring technology </td>
+   <td style="text-align:left;"> 2024-12-05 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 16 </td>
-   <td style="text-align:left;"> 2024-12-12 </td>
-   <td style="text-align:left;"> Final exam Thursday 12/12 9:00-11:15 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:right;"> 15 </td>
+   <td style="text-align:left;"> 2024-12-05 </td>
+   <td style="text-align:left;"> Lab: </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
