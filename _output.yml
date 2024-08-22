@@ -12,3 +12,4 @@ bookdown::gitbook:
       facebook: no
       twitter: no
       all: no
+  table_css: false

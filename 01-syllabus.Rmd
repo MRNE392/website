@@ -36,21 +36,25 @@ This course uses a variation of "specifications grading," where we rely less on 
 
 The following outlines how grades are earned:
 
-* **A:** Meet specs on at least xx quizzes/homeworks; earn at least 90% on final exam
-* **B:** Meet specs on at least xx quizzes/homeworks; earn at least 80% on final exam
-* **C:** Meet specs on at least xx quizzes/homeworks; earn at least 70% on final exam
-* **D:** Meet specs on at least xx quizzes/homeworks; earn at least 70% on final exam; 3 or more unexplained absences* 
-* **F:** Meet specs on less than xx quizzes/homeworks; earn less than a 70% on final exam; 3 or more unexplained absences*
+* **A** Meet specs on: at least 9/10 quizzes, 4/4 lab reports, and poster
+* **B** Meet specs on: at least 8/10 quizzes, 3/4 lab reports, and poster
+* **C** Meet specs on: at least 7/10 quizzes, 2/4 lab reports, and poster
+* **D** Meet specs on: at least 6/10 quizzes, 1/4 lab reports, and poster, and/or student has 4 or more unexplained absences* 
+* **F** Does not meet one or more of the requirements to earn a D, and/or student has 4 or more unexplained absences* 
 
-*Unexplained absence:* Missing class without notifying the professor (in other words, “ghosting” the class). As long as you let the instructor know you won’t be able to make it to class, an absence is considered “explained,” no doctor’s note or other official documentation needed. Please don’t come to class if you are sick! Just be sure to keep me in the loop via a quick email.
+**Unexplained absence**
+
+Missing class without notifying the professor (in other words, “ghosting” the class). As long as you let the instructor know you won’t be able to make it to class, an absence is considered “explained,” no doctor’s note or other official documentation needed. Please don’t come to class if you are sick! Just be sure to keep me in the loop via a quick email.
 
 On the flip side, please consider the consequences of missing class meetings – this is a very hands-on course where most of the learning takes place in person. It will be hard to learn and, therefore, pass the class if you’re not here to participate. This is why attendance is included in the specs for earning a D or F in the class: since we only meet once a week, missing 3 class sessions is equal to missing three weeks of class. If we are not in close communication about your absences, catching up on this much missed work will be difficult if not impossible. IMHO, this course is fun and interesting with many practical applications for your future career in marine science and adjacent fields, so hopefully this won’t be an issue because you’ll be excited to come to class!
 
-**Homework assignments and quizzes**
+**Quizzes**
 
-Formative assessments will generally take the form of written and practical quizzes and homework assignments. They are designed to 1) help the instructor monitor how well you’re learning and 2) help you monitor your own learning and make adjustments to improve. These assignments can be revised during class based on discussion with your peers and instructor so that you can identify and correct any misconceptions your may have and consider how you might improve your study habits. Learning outcomes for each week will be provided and each quiz/homework assignment will clearly assess those outcomes. Since the final exam will be assessing the same learning outcomes, these assignments will also serve as great study material for the exams.
+Formative assessments will generally take the form of quizzes. They are designed to 1) help the instructor monitor how well you’re learning and 2) help you monitor your own learning and make adjustments to improve. Quizzes can be revised during class based on discussion with your peers and instructor so that you can identify and correct any misconceptions your may have and consider how you might improve your study habits. Learning outcomes for each week will be provided and each quiz will clearly assess those outcomes. Since the final exam will be assessing the same learning outcomes, these assignments will also serve as great study material for the exams.
 
-Quizzes and homework assignments are evaluated on a “meets specs/does not meet specs” basis to avoid stressing over every point earned and lost. To meet specs on a quiz or homework assignment (unless otherwise noted), your work should be at least 50% correct before revision and at least 85% correct after revision with an honest reflection on any revisions made. Quizzes can be made up during the instructor’s office hours but revisions are not possible on make-up quizzes since they are based on in-class peer collaboration. Missed quizzes must be made up within two weeks of the day you missed the quiz.
+Quizzes are evaluated on a “meets specs/does not meet specs” basis to avoid stressing over every point earned and lost. To meet specs on a quiz (unless otherwise noted), your work should be at least 50% correct before revision and at least 85% correct after revision with an honest reflection on any revisions made. Quizzes can be made up during the instructor’s office hours but revisions are not possible on make-up quizzes since they are based on in-class peer collaboration. Missed quizzes must be made up within two weeks of the day you missed the quiz.
+
+**Lab reports**
 
 **Final exam**
 
@@ -58,7 +62,7 @@ Summative assessments evaluate your learning and proficiency at the end of the c
 
 **Extra credit**
 
-The specs grading system is designed to reduce anxiety over grades, but I recognize that you still may experience some stress over the exam and quizzes, especially if your exam grade is just below the benchmark for a particular course grade or you did not meet specs on one too many quizzes to earn the grade you want. I will offer multiple opportunities that will enable you to earn up to three extra credit points, which you can add to your final exam grade or use as a "free pass" to automatically meet specs on a quiz. So if, for example, you earn a 78% on the exam, your three extra credit points can increase the grade to an 81% and you can, therefore earn a B in the class. Or if you only meet the specs on xx quizzes but you needed to pass xx to earn a B, you can use one of your extra credit points to automatically pass your missing quiz. Several extra credit opportunities are already listed on the class website and more will be added and announced throughout the semester.
+The specs grading system is designed to reduce anxiety over grades, but I recognize that you still may experience some stress over the quizzes and assignments, especially if you are just below the benchmark for a particular course grade or you would like the opportunity to earn a "plus" grade. I will offer multiple opportunities that will enable you to earn an extra credit point, which you can use as a "free pass" to automatically meet specs on a quiz or add a "plus" to your grade. So if, for example, if you only meet the specs on 7 quizzes but you need to pass 8 to earn a B, you can use your extra credit point to automatically pass your missing quiz. Or if you met all of the requirements for a B, but you'd really like to earn a B+, you can use your extra credit point to add a "+" to your final grade. There are no "-" final grades in this class. Several extra credit opportunities are already listed on the class website and more will be added and announced throughout the semester.
 
 ### More policies {-}
 

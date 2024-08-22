@@ -34,7 +34,6 @@
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
@@ -53,6 +52,8 @@
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 <script src="libs/kePrint-0.0.1/kePrint.js"></script>
 <link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+<link href="libs/bsTable-3.3.7/bootstrapTable.min.css" rel="stylesheet" />
+<script src="libs/bsTable-3.3.7/bootstrapTable.js"></script>
 
 
 
@@ -111,14 +112,10 @@
             <section class="normal" id="section-">
 <div id="schedule" class="section level1 unnumbered hasAnchor">
 <h1>Schedule<a href="schedule.html#schedule" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p>The table below contains the <code>slides</code>, <code>lab</code> assignments, and application <code>exercises</code> covered each day and when assignments are <code>due</code>. <code>resources</code> links to information sources that cover course topics in detail. You should always have these open as you work on assignments or exercises related to those particular topics. It wouldn’t be a bad idea to have relevant <code>slides</code> open as well.</p>
-<p><code>excercises</code> can be accessed directly through our Posit Cloud workspace. For each <code>lab</code>, data challenge, and course project, I will create a repository for each student or team. You’ll clone your repo into your Posit Cloud workspace and complete the work from there.</p>
+<p>The table below is a comprehensive guide to the semester. The <code>materials</code> column has links to materials used in class each day. <code>assessments</code> outlines the quiz schedule and assignment due dates. This column also links to pages containing details about quizzes (learning outcomes and information sources to help you study) and assignment guidelines/specifications. The <code>notes</code> column mostly indicates how to prepare for labs.</p>
 <table class="table table-hover" style="font-size: 12px; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
-<th style="text-align:right;position: sticky; top:0; background-color: #FFFFFF;">
-week
-</th>
 <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
 date
 </th>
@@ -126,41 +123,23 @@ date
 topic
 </th>
 <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
-lesson plan
+materials
 </th>
 <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
 assessment
 </th>
 <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
-hw
+notes
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:right;">
-1
+<td style="text-align:left;">
+T 8/27
 </td>
 <td style="text-align:left;">
-2024-08-27
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-1
-</td>
-<td style="text-align:left;">
-2024-08-29
-</td>
-<td style="text-align:left;">
+Scientific inquiry
 </td>
 <td style="text-align:left;">
 </td>
@@ -170,14 +149,11 @@ hw
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-1
+<td style="text-align:left;">
+Th 8/29
 </td>
 <td style="text-align:left;">
-2024-08-29
-</td>
-<td style="text-align:left;">
-Lab:
+Methods of data acquisition
 </td>
 <td style="text-align:left;">
 </td>
@@ -187,13 +163,42 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-2
+<td style="text-align:left;">
+Th 8/29
 </td>
 <td style="text-align:left;">
-2024-09-03
+Lab 1: Marsh field practice on campus
 </td>
 <td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/marsh-species.html">Informal species ID quiz</a>
+</td>
+<td style="text-align:left;">
+Wear long pants and bring waterproof boots. Be prepared to spend most of the afternoon outside.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 9/3
+</td>
+<td style="text-align:left;">
+Hypothesis testing
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-1.html">Quiz 1</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Th 9/5
+</td>
+<td style="text-align:left;">
+Statistical inference and marsh study design
 </td>
 <td style="text-align:left;">
 </td>
@@ -203,13 +208,42 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-2
+<td style="text-align:left;">
+Th 9/5
 </td>
 <td style="text-align:left;">
-2024-09-05
+Lab 2: Marsh vegetation transects at Point Lookout
 </td>
 <td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-2.html">Quiz 2</a> (marsh species ID)
+</td>
+<td style="text-align:left;">
+Wear long pants and bring waterproof boots. Be prepared to spend most of the afternoon outside.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 9/10
+</td>
+<td style="text-align:left;">
+Data organization
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-3.html">Quiz 3</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Th 9/12
+</td>
+<td style="text-align:left;">
+Statistical analysis of field data
 </td>
 <td style="text-align:left;">
 </td>
@@ -219,14 +253,41 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-2
+<td style="text-align:left;">
+Th 9/12
 </td>
 <td style="text-align:left;">
-2024-09-05
+Lab 3: Environmental measurements at Point Lookout
 </td>
 <td style="text-align:left;">
-Lab:
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Wear long pants and bring waterproof boots. Be prepared to spend most of the afternoon outside.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 9/17
+</td>
+<td style="text-align:left;">
+Sampling design and pseudoreplication
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-4.html">Quiz 4</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Th 9/19
+</td>
+<td style="text-align:left;">
+Marsh data analysis
 </td>
 <td style="text-align:left;">
 </td>
@@ -236,13 +297,41 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-3
+<td style="text-align:left;">
+Th 9/19
 </td>
 <td style="text-align:left;">
-2024-09-10
+Lab 4: Marsh sample processing and data analysis
 </td>
 <td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+We will be indoors
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 9/24
+</td>
+<td style="text-align:left;">
+The subtidal environment
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-5.html">Quiz 5</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Th 9/26
+</td>
+<td style="text-align:left;">
+Benthic sampling
 </td>
 <td style="text-align:left;">
 </td>
@@ -252,13 +341,41 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-3
+<td style="text-align:left;">
+Th 9/26
 </td>
 <td style="text-align:left;">
-2024-09-12
+Lab 5: Benthic sampling at CBL
 </td>
 <td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Wear comfortable outdoor clothing. Be prepared to spend all afternoon outside.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 10/1
+</td>
+<td style="text-align:left;">
+Pelagic sampling: microscopic
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-6.html">Quiz 6</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Th 10/3
+</td>
+<td style="text-align:left;">
+Pelagic sampling: macroscopic
 </td>
 <td style="text-align:left;">
 </td>
@@ -268,14 +385,40 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-3
+<td style="text-align:left;">
+Th 10/3
 </td>
 <td style="text-align:left;">
-2024-09-12
+Lab 6: Benthic sample processing
 </td>
 <td style="text-align:left;">
-Lab:
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+We will be indoors.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+F 10/4
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/lab-report-1.html">Lab report 1</a> due before midnight
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 10/8
+</td>
+<td style="text-align:left;">
+<strong>Fall reading day: no class</strong>
 </td>
 <td style="text-align:left;">
 </td>
@@ -285,13 +428,41 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-4
+<td style="text-align:left;">
+Th 10/10
 </td>
 <td style="text-align:left;">
-2024-09-17
+SAV sampling and benthic data analysis
 </td>
 <td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-7.html">Quiz 7</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Th 10/10
+</td>
+<td style="text-align:left;">
+Lab 7: SAV sample processing and benthic data analysis
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+We will be indoors.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 10/15
+</td>
+<td style="text-align:left;">
+<strong>CBG fieldwork: no class</strong>
 </td>
 <td style="text-align:left;">
 </td>
@@ -301,30 +472,11 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-4
+<td style="text-align:left;">
+Th 10/17
 </td>
 <td style="text-align:left;">
-2024-09-19
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-4
-</td>
-<td style="text-align:left;">
-2024-09-19
-</td>
-<td style="text-align:left;">
-Lab:
+<strong>CBG fieldwork: no class</strong>
 </td>
 <td style="text-align:left;">
 </td>
@@ -334,29 +486,11 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-5
+<td style="text-align:left;">
+Th 10/17
 </td>
 <td style="text-align:left;">
-2024-09-24
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-5
-</td>
-<td style="text-align:left;">
-2024-09-26
-</td>
-<td style="text-align:left;">
+<strong>CBG fieldwork: no lab</strong>
 </td>
 <td style="text-align:left;">
 </td>
@@ -366,14 +500,26 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-5
+<td style="text-align:left;">
+T 10/22
 </td>
 <td style="text-align:left;">
-2024-09-26
+Oceanographic variables
 </td>
 <td style="text-align:left;">
-Lab:
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-8.html">Quiz 8</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Th 10/24
+</td>
+<td style="text-align:left;">
+Physical and chemical sampling
 </td>
 <td style="text-align:left;">
 </td>
@@ -383,13 +529,41 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-6
+<td style="text-align:left;">
+Th 10/24
 </td>
 <td style="text-align:left;">
-2024-10-01
+Lab 8: Chemical &amp; physical sampling: Instrument programming and deployment
 </td>
 <td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/knot-tying.html">Informal knot-tying quiz</a>
+</td>
+<td style="text-align:left;">
+Wear comfortable outdoor clothing. Be prepared to spend most of the afternoon outside.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+F 10/25
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/lab-report-2.html">Lab report 2</a> due before midnight
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 10/29
+</td>
+<td style="text-align:left;">
+<strong>Advising day: no class</strong>
 </td>
 <td style="text-align:left;">
 </td>
@@ -399,13 +573,42 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-6
+<td style="text-align:left;">
+Th 10/31
 </td>
 <td style="text-align:left;">
-2024-10-03
+More coastal physics
 </td>
 <td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-9.html">Quiz 9</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Th 10/31
+</td>
+<td style="text-align:left;">
+Lab 9: Chemical and physical instrument retrieval and data download
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-10.html">Quiz 10</a> (knot-tying)
+</td>
+<td style="text-align:left;">
+Wear comfortable outdoor clothing. Be prepared to spend most of the afternoon outside.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 11/5
+</td>
+<td style="text-align:left;">
+More coastal chemistry
 </td>
 <td style="text-align:left;">
 </td>
@@ -415,14 +618,41 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-6
+<td style="text-align:left;">
+Th 11/7
 </td>
 <td style="text-align:left;">
-2024-10-03
+Physical and chemical data analysis
 </td>
 <td style="text-align:left;">
-Lab:
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/quiz-11.html">Quiz 11</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Th 11/7
+</td>
+<td style="text-align:left;">
+Lab 10: Physical and chemical data analysis
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+We will be indoors.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 11/12
+</td>
+<td style="text-align:left;">
+TBA
 </td>
 <td style="text-align:left;">
 </td>
@@ -432,29 +662,11 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-7
+<td style="text-align:left;">
+Th 11/14
 </td>
 <td style="text-align:left;">
-2024-10-08
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-7
-</td>
-<td style="text-align:left;">
-2024-10-10
-</td>
-<td style="text-align:left;">
+TBA
 </td>
 <td style="text-align:left;">
 </td>
@@ -464,14 +676,26 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-7
+<td style="text-align:left;">
+Th 11/14
 </td>
 <td style="text-align:left;">
-2024-10-10
+Lab 11: Poster workshop I
 </td>
 <td style="text-align:left;">
-Lab:
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+We will be indoors.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 11/19
+</td>
+<td style="text-align:left;">
+Poster work session
 </td>
 <td style="text-align:left;">
 </td>
@@ -481,29 +705,11 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-8
+<td style="text-align:left;">
+Th 11/21
 </td>
 <td style="text-align:left;">
-2024-10-15
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-8
-</td>
-<td style="text-align:left;">
-2024-10-17
-</td>
-<td style="text-align:left;">
+Poster work session
 </td>
 <td style="text-align:left;">
 </td>
@@ -513,14 +719,41 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-8
+<td style="text-align:left;">
+Th 11/21
 </td>
 <td style="text-align:left;">
-2024-10-17
+Lab 12: Poster peer review
 </td>
 <td style="text-align:left;">
-Lab:
+</td>
+<td style="text-align:left;">
+Draft <a href="https://mrne392.github.io/assessment/poster.html">poster</a> due before lab
+</td>
+<td style="text-align:left;">
+We will be indoors.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+F 11/22
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/lab-report-3.html">Lab report 3</a> due before midnight
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 11/26
+</td>
+<td style="text-align:left;">
+TBA
 </td>
 <td style="text-align:left;">
 </td>
@@ -530,29 +763,11 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-9
+<td style="text-align:left;">
+Th 11/28
 </td>
 <td style="text-align:left;">
-2024-10-22
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-9
-</td>
-<td style="text-align:left;">
-2024-10-24
-</td>
-<td style="text-align:left;">
+<strong>Thanksgiving: no class</strong>
 </td>
 <td style="text-align:left;">
 </td>
@@ -562,14 +777,11 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-9
+<td style="text-align:left;">
+Th 11/28
 </td>
 <td style="text-align:left;">
-2024-10-24
-</td>
-<td style="text-align:left;">
-Lab:
+<strong>Thanksgiving: no class</strong>
 </td>
 <td style="text-align:left;">
 </td>
@@ -579,13 +791,25 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-10
+<td style="text-align:left;">
+M 12/2
 </td>
 <td style="text-align:left;">
-2024-10-29
 </td>
 <td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/poster.html">Poster</a> due to printer; hard deadline
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+T 12/3
+</td>
+<td style="text-align:left;">
+TBA
 </td>
 <td style="text-align:left;">
 </td>
@@ -595,30 +819,11 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-10
+<td style="text-align:left;">
+Th 12/5
 </td>
 <td style="text-align:left;">
-2024-10-31
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-10
-</td>
-<td style="text-align:left;">
-2024-10-31
-</td>
-<td style="text-align:left;">
-Lab:
+TBA
 </td>
 <td style="text-align:left;">
 </td>
@@ -628,248 +833,35 @@ Lab:
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-11
+<td style="text-align:left;">
+Th 12/5
 </td>
 <td style="text-align:left;">
-2024-11-05
-</td>
-<td style="text-align:left;">
+Lab: Poster presentation practice
 </td>
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
+Bring your printed <a href="https://mrne392.github.io/assessment/poster.html">poster</a> to lab
 </td>
 <td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-11
-</td>
-<td style="text-align:left;">
-2024-11-07
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
+We will be indoors.
 </td>
 </tr>
 <tr>
-<td style="text-align:right;">
-11
-</td>
-<td style="text-align:left;">
-2024-11-07
-</td>
-<td style="text-align:left;">
-Lab:
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-12
-</td>
-<td style="text-align:left;">
-2024-11-12
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-12
-</td>
-<td style="text-align:left;">
-2024-11-14
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-12
-</td>
-<td style="text-align:left;">
-2024-11-14
-</td>
-<td style="text-align:left;">
-Lab:
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-13
-</td>
-<td style="text-align:left;">
-2024-11-19
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-13
-</td>
-<td style="text-align:left;">
-2024-11-21
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-13
-</td>
-<td style="text-align:left;">
-2024-11-21
-</td>
-<td style="text-align:left;">
-Lab:
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-14
-</td>
-<td style="text-align:left;">
-2024-11-26
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-14
-</td>
-<td style="text-align:left;">
-2024-11-28
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-14
-</td>
-<td style="text-align:left;">
-2024-11-28
-</td>
-<td style="text-align:left;">
-Lab:
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-15
-</td>
-<td style="text-align:left;">
-2024-12-03
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-15
-</td>
-<td style="text-align:left;">
-2024-12-05
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:right;">
-15
-</td>
 <td style="text-align:left;">
-2024-12-05
+F 12/6
 </td>
 <td style="text-align:left;">
-Lab:
+Fall poster symposium: ARC 11:30-1:00
 </td>
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
+<a href="https://mrne392.github.io/assessment/poster.html">Poster</a> presentation
 </td>
 <td style="text-align:left;">
+Attendance is mandatory.
 </td>
 </tr>
 </tbody>
