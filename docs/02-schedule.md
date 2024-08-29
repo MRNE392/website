@@ -20,25 +20,25 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 8/29 </td>
-   <td style="text-align:left;"> Experimental design </td>
+   <td style="text-align:left;"> [Experimental design](https://mrne392.github.io/lesson-plans/02-experimental-design.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 8/29 </td>
-   <td style="text-align:left;"> Lab 1: Marsh field practice on campus </td>
+   <td style="text-align:left;"> Lab 1: [Marsh field practice](https://mrne392.github.io/lesson-plans/02-experimental-design.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Wear long pants and bring waterproof boots. Be prepared to spend most of the afternoon outside. </td>
+   <td style="text-align:left;"> Wear long pants and bring waterproof boots (we have extra boots you can use). Be prepared to spend most of the afternoon outside. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 9/3 </td>
-   <td style="text-align:left;"> Hypothesis testing </td>
+   <td style="text-align:left;"> [Statistical inference] </td>
    <td style="text-align:left;"> Quiz 1 </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/5 </td>
-   <td style="text-align:left;"> Statistical inference and marsh study design </td>
+   <td style="text-align:left;"> [Marsh study design] </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
