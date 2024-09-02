@@ -28,17 +28,17 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 8/29 </td>
    <td style="text-align:left;"> Lab 1: [Marsh field practice](https://mrne392.github.io/lesson-plans/02-experimental-design.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Wear long pants and bring waterproof boots (we have extra boots you can use). Be prepared to spend most of the afternoon outside. </td>
+   <td style="text-align:left;"> Lab is in the marsh on campus. Wear long pants and bring waterproof boots. Be prepared to spend most of the afternoon outside. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 9/3 </td>
-   <td style="text-align:left;"> [Statistical inference] </td>
+   <td style="text-align:left;"> [Marsh study design](https://mrne392.github.io/lesson-plans/03-marsh-study-design.html) </td>
    <td style="text-align:left;"> Quiz 1 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Bring your notes for taking part II of the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/5 </td>
-   <td style="text-align:left;"> [Marsh study design] </td>
+   <td style="text-align:left;"> [Marsh field methods](https://mrne392.github.io/lesson-plans/04-marsh-field-methods.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
@@ -46,13 +46,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 9/5 </td>
    <td style="text-align:left;"> Lab 2: Marsh vegetation transects at Point Lookout </td>
    <td style="text-align:left;"> Quiz 2: [Marsh plant species ID](https://mrne392.github.io/assessment/marsh-species.html) </td>
-   <td style="text-align:left;"> Wear long pants and bring waterproof boots. Be prepared to spend most of the afternoon outside. </td>
+   <td style="text-align:left;"> Lab is at Point Lookout. Wear long pants (light, loose-fitting synthetic material is best; avoid jeans and tights). Bring waterproof boots (we have extra boots in limited sizes - if you own any please bring them). Be prepared to spend most of the afternoon outside. Bring your marsh plants species ID guide. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 9/10 </td>
-   <td style="text-align:left;"> Data organization </td>
+   <td style="text-align:left;"> Data organization and statistical inference </td>
    <td style="text-align:left;"> Quiz 3 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Bring your notes for taking part II of the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/12 </td>
@@ -64,13 +64,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 9/12 </td>
    <td style="text-align:left;"> Lab 3: Environmental measurements at Point Lookout </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Wear long pants and bring waterproof boots. Be prepared to spend most of the afternoon outside. </td>
+   <td style="text-align:left;"> Lab is at Point Lookout. Wear long pants (light, loose-fitting synthetic material is best; avoid jeans and tights). Bring waterproof boots (we have extra boots in limited sizes - if you own any please bring them). Be prepared to spend most of the afternoon outside. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 9/17 </td>
    <td style="text-align:left;"> Sampling design and pseudoreplication </td>
    <td style="text-align:left;"> Quiz 4 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Bring your notes for taking part II of the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/19 </td>
@@ -88,7 +88,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> T 9/24 </td>
    <td style="text-align:left;"> The subtidal environment </td>
    <td style="text-align:left;"> Quiz 5 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Bring your notes for taking part II of the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/26 </td>
@@ -106,7 +106,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> T 10/1 </td>
    <td style="text-align:left;"> Pelagic sampling: microscopic </td>
    <td style="text-align:left;"> Quiz 6 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Bring your notes for taking part II of the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/3 </td>
@@ -136,7 +136,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 10/10 </td>
    <td style="text-align:left;"> SAV sampling and benthic data analysis </td>
    <td style="text-align:left;"> Quiz 8 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Bring your notes for taking part II of the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/10 </td>
@@ -166,7 +166,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> T 10/22 </td>
    <td style="text-align:left;"> Oceanographic variables </td>
    <td style="text-align:left;"> Quiz 9 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Bring your notes for taking part II of the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/24 </td>
@@ -196,7 +196,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 10/31 </td>
    <td style="text-align:left;"> More coastal physics </td>
    <td style="text-align:left;"> Quiz 10 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Bring your notes for taking part II of the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/31 </td>
@@ -214,7 +214,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 11/7 </td>
    <td style="text-align:left;"> Physical and chemical data analysis </td>
    <td style="text-align:left;"> Quiz 12 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Bring your notes for taking part II of the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/7 </td>
