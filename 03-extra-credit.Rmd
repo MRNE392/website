@@ -1,0 +1,12 @@
+# Extra credit {-}
+
+The following are extra credit opportunities that you can use for this class. For unstructured activities, you need to spend at least 1 hour on the activity. When you have completed the extra credit activity, you should print out and submit to me a reflection. The reflection should be ~ 1/2 single-spaced page and it should describe what you did and draw linkages between the activity and the course. You can submit your reflection when I see you in class or you can put it in the mailbox next to my office door (Kent 308)
+
+* **Week of 9/9**: Help Dr. Hamman pull process samples from cages she has deployed around the oyster reefs near the waterfront. Email Dr. Hamman ASAP if you can help (eahamman@smcm.edu). She will be sampling most of the week between 9:30-2:00.
+* **9/11 4:45-5:45** Schaefer 106: Natural Science and Math Colloquium speaker Matt Neff, *Hellbenders: The lost denizens of the Chesapeake*
+* **9/12 1:30-2:30** Maryland Water Monitoring Council webinar [register here](https://docs.google.com/forms/d/e/1FAIpQLSdBnJHZ86xQKPYabEi3LBGdnZvbj6dSB9q9jWxY2mhciClsUg/viewform): Leah Ettema, *Best practices for continuous monitoring*
+* **10/8 7:00-8:00 pm** [register here](https://umces-edu.zoom.us/webinar/register/WN_M0JlvCygQ0OLDd6-hNbfWQ#/registration) Chesapeake Biological Laboratory Bernie Fowler Laboratory: Dr. Lora Harris, *Cove Point Marsh: Over ten years of monitoring natural and nature-based feature in Calvert County*
+* **10/15 7:00-8:00 pm** [register here](https://umces-edu.zoom.us/webinar/register/WN_M0JlvCygQ0OLDd6-hNbfWQ#/registration) Chesapeake Biological Laboratory Bernie Fowler Laboratory: Anna Hildebrand, *Controls on Oxygen Variability and depletion in the Patuxent River estuary*
+* **10/22 7:00-8:00 pm** [register here](https://umces-edu.zoom.us/webinar/register/WN_M0JlvCygQ0OLDd6-hNbfWQ#/registration) Chesapeake Biological Laboratory Bernie Fowler Laboratory: Dr. Ryan Woodland, *Seines, sleds and data, oh my! How biological surveys at CBL are helping us understand the Chesapeake Bay*
+* **10/23  4:45-5:45** Schaefer 106: Natural Science and Math Colloquium speaker Anahi Espindola on ecological interactions
+* **10/29 7:00-8:00 pm** [register here](https://umces-edu.zoom.us/webinar/register/WN_M0JlvCygQ0OLDd6-hNbfWQ#/registration) Chesapeake Biological Laboratory Bernie Fowler Laboratory Jessica McGlinsey, *Diamondback Terrapins in a Changing Climate*
