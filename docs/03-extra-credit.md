@@ -24,7 +24,7 @@ The following are extra credit opportunities that you can use for this class. Fo
    <td style="text-align:left;"> 9/11 </td>
    <td style="text-align:left;"> 4:45-5:45 </td>
    <td style="text-align:left;"> Schaefer 106 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Matt Neff is going to be arriving on campus about an hour before the seminar. If any students or faculty would like to meet with him beforehand, please reach out to Dr. Perez (vjperez@smcm.edu). If students or faculty want to join last minute, they will likely be meeting in the Schaefer Hall lobby before the seminar. </td>
    <td style="text-align:left;"> Natural Science and Math Colloquium speaker Matt Neff, Hellbenders: The lost denizens of the Chesapeake </td>
   </tr>
   <tr>
