@@ -28,7 +28,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 8/29 </td>
    <td style="text-align:left;"> Lab 1: [Marsh field practice](https://mrne392.github.io/lesson-plans/02-experimental-design.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Lab is in the marsh on campus. Wear long pants and bring waterproof boots. Be prepared to spend most of the afternoon outside. </td>
+   <td style="text-align:left;"> Lab is in the marsh on campus. Wear long pants and bring waterproof boots. Be prepared to spend most of the afternoon outside. Guest instructor - Kylie Cherneskie. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 9/3 </td>
@@ -46,7 +46,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 9/5 </td>
    <td style="text-align:left;"> Lab 2: [Marsh vegetation transects at Point Lookout](https://mrne392.github.io/lesson-plans/05-point-lookout-fieldwork.html) </td>
    <td style="text-align:left;"> Quiz 2: [Marsh plant species ID](https://mrne392.github.io/assessment/marsh-species.html) </td>
-   <td style="text-align:left;"> Lab is at Point Lookout. Wear long pants (light, loose-fitting synthetic material is best; avoid jeans and tights). Bring waterproof boots (we have extra boots in limited sizes - if you own any please bring them). Be prepared to spend most of the afternoon outside. Bring your marsh plants species ID guide. </td>
+   <td style="text-align:left;"> Lab is at Point Lookout. Wear long pants (light, loose-fitting synthetic material is best; avoid jeans and tights). Bring waterproof boots (we have extra boots in limited sizes - if you own any please bring them). Be prepared to spend most of the afternoon outside. Bring your marsh plants species ID guide. Guest instructor - Kylie Cherneskie. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 9/10 </td>
@@ -56,13 +56,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/12 </td>
-   <td style="text-align:left;"> [Statistical inference](https://mrne392.github.io/lesson-plans/07-statistical-inference.html) </td>
+   <td style="text-align:left;"> [Descriptive statistics](https://mrne392.github.io/lesson-plans/07-descriptive-statistics.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/12 </td>
-   <td style="text-align:left;"> Lab 3: Marsh sample analysis </td>
+   <td style="text-align:left;"> Lab 3: [Marsh sample processing](https://mrne392.github.io/lesson-plans/08-marsh-smaple-processing.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> We will be indoors </td>
   </tr>
@@ -74,7 +74,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/19 </td>
-   <td style="text-align:left;"> Statistical inference, cont. </td>
+   <td style="text-align:left;"> [Statistical inverence](https://mrne392.github.io/lesson-plans/09-statistical-inference.html) </td>
    <td style="text-align:left;"> Quiz 4 </td>
    <td style="text-align:left;">  </td>
   </tr>
@@ -82,7 +82,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 9/19 </td>
    <td style="text-align:left;"> Lab 4: Marsh sample processing and data analysis </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> We will be indoors </td>
+   <td style="text-align:left;"> We will be indoors; guest instructor - Kylie Cherneskie </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 9/24 </td>
@@ -100,7 +100,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 9/26 </td>
    <td style="text-align:left;"> Lab 5: Benthic sampling at CBL </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Wear comfortable outdoor clothing. Be prepared to spend all afternoon outside. </td>
+   <td style="text-align:left;"> Wear comfortable outdoor clothing. Be prepared to spend all afternoon outside. Guest instructor - Nina Santos. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 10/1 </td>
@@ -118,7 +118,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 10/3 </td>
    <td style="text-align:left;"> Lab 6: Benthic sample processing </td>
    <td style="text-align:left;"> Quiz 7: Benthic organism ID </td>
-   <td style="text-align:left;"> We will be indoors. </td>
+   <td style="text-align:left;"> We will be indoors. Guest instructor - Nina Santos. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> F 10/4 </td>
