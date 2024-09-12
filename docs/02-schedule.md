@@ -62,7 +62,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/12 </td>
-   <td style="text-align:left;"> Lab 3: [Marsh sample processing](https://mrne392.github.io/lesson-plans/08-marsh-smaple-processing.html) </td>
+   <td style="text-align:left;"> Lab 3: [Marsh sample processing](https://mrne392.github.io/lesson-plans/08-marsh-sample-processing.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> We will be indoors </td>
   </tr>
