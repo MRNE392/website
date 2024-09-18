@@ -74,13 +74,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/19 </td>
-   <td style="text-align:left;"> [Statistical inverence](https://mrne392.github.io/lesson-plans/09-statistical-inference.html) </td>
+   <td style="text-align:left;"> [Statistical inference](https://mrne392.github.io/lesson-plans/09-statistical-inference.html) </td>
    <td style="text-align:left;"> Quiz 4 </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/19 </td>
-   <td style="text-align:left;"> Lab 4: Marsh sample processing and data analysis </td>
+   <td style="text-align:left;"> Lab 4: [Marsh sample processing and data analysis](https://mrne392.github.io/lesson-plans/10-marsh-data-analysis.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> We will be indoors; guest instructor - Kylie Cherneskie </td>
   </tr>
@@ -121,12 +121,6 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> We will be indoors. Guest instructor - Nina Santos. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> F 10/4 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> [Lab report 1](https://mrne392.github.io/assessment/lab-report-1.html) due before midnight </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> T 10/8 </td>
    <td style="text-align:left;"> **Fall reading day: no class** </td>
    <td style="text-align:left;">  </td>
@@ -135,7 +129,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:left;"> Th 10/10 </td>
    <td style="text-align:left;"> SAV sampling and benthic data analysis </td>
-   <td style="text-align:left;"> Quiz 8 </td>
+   <td style="text-align:left;"> Quiz 8; [Lab report 1](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing) due in class </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
