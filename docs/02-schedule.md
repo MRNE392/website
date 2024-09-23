@@ -86,14 +86,14 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> T 9/24 </td>
-   <td style="text-align:left;"> The subtidal environment </td>
-   <td style="text-align:left;"> Quiz 5 </td>
+   <td style="text-align:left;"> [Scientific writing](https://mrne392.github.io/lesson-plans/11-scientific-writing.html) </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/26 </td>
-   <td style="text-align:left;"> Benthic sampling </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [Benthic sampling](https://mrne392.github.io/lesson-plans/12-benthic-sampling.html) </td>
+   <td style="text-align:left;"> Quiz 5 </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
