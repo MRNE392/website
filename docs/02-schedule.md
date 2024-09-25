@@ -92,7 +92,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/26 </td>
-   <td style="text-align:left;"> [Benthic sampling](https://mrne392.github.io/lesson-plans/12-benthic-sampling.html) </td>
+   <td style="text-align:left;"> [Benthos](https://mrne392.github.io/lesson-plans/12-benthic-sampling.html) </td>
    <td style="text-align:left;"> Quiz 5 </td>
    <td style="text-align:left;">  </td>
   </tr>
@@ -100,24 +100,24 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Th 9/26 </td>
    <td style="text-align:left;"> Lab 5: Benthic sampling at CBL </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Wear comfortable outdoor clothing. Be prepared to spend all afternoon outside. Guest instructor - Nina Santos. </td>
+   <td style="text-align:left;"> Wear comfortable outdoor clothing and closed-toe shoes. Be prepared to spend all afternoon outside. Guest instructor - Nina Santos. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 10/1 </td>
-   <td style="text-align:left;"> Pelagic sampling: microscopic </td>
+   <td style="text-align:left;"> Bethic sampling </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Th 10/3 </td>
+   <td style="text-align:left;"> Pelagic sampling </td>
    <td style="text-align:left;"> Quiz 6 </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/3 </td>
-   <td style="text-align:left;"> Pelagic sampling: macroscopic </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Th 10/3 </td>
    <td style="text-align:left;"> Lab 6: Benthic sample processing </td>
-   <td style="text-align:left;"> Quiz 7: Benthic organism ID </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;"> We will be indoors. Guest instructor - Nina Santos. </td>
   </tr>
   <tr>
@@ -129,13 +129,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:left;"> Th 10/10 </td>
    <td style="text-align:left;"> SAV sampling and benthic data analysis </td>
-   <td style="text-align:left;"> Quiz 8; [Lab report 1](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing) due in class </td>
+   <td style="text-align:left;"> Quiz 7; [Lab report 1](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing) due in class </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/10 </td>
    <td style="text-align:left;"> Lab 7: SAV sample processing and benthic data analysis </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Quiz 8: SAV species ID </td>
    <td style="text-align:left;"> We will be indoors. </td>
   </tr>
   <tr>
@@ -175,15 +175,9 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> Wear comfortable outdoor clothing. Be prepared to spend most of the  afternoon outside. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> F 10/25 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> [Lab report 2](https://mrne392.github.io/assessment/lab-report-2.html) due before midnight </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> T 10/29 </td>
-   <td style="text-align:left;"> TBD </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> More coastal physics </td>
+   <td style="text-align:left;"> [Lab report 2](https://mrne392.github.io/assessment/lab-report-2.html) due in class </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -218,13 +212,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> T 11/12 </td>
-   <td style="text-align:left;"> TBA </td>
+   <td style="text-align:left;"> Physical and chemical data analysis </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/14 </td>
-   <td style="text-align:left;"> TBA </td>
+   <td style="text-align:left;"> Physical and chemical data analysis </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
@@ -253,15 +247,9 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> We will be indoors. </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> F 11/22 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> [Lab report 3](https://mrne392.github.io/assessment/lab-report-3.html) due before midnight </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> T 11/26 </td>
-   <td style="text-align:left;"> TBA </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Poster work session </td>
+   <td style="text-align:left;"> [Lab report 3](https://mrne392.github.io/assessment/lab-report-3.html) due in class </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -304,7 +292,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> F 12/6 </td>
    <td style="text-align:left;"> Fall poster symposium: ARC 11:30-1:00 </td>
    <td style="text-align:left;"> [Poster](https://mrne392.github.io/assessment/poster.html) presentation </td>
-   <td style="text-align:left;"> Attendance is mandatory. </td>
+   <td style="text-align:left;"> Attendance is mandatory; this will take the place of our scheduled final exam time </td>
   </tr>
 </tbody>
 </table>
