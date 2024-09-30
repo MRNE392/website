@@ -92,7 +92,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 9/26 </td>
-   <td style="text-align:left;"> [Benthos](https://mrne392.github.io/lesson-plans/12-benthic-sampling.html) </td>
+   <td style="text-align:left;"> [Benthos](https://mrne392.github.io/lesson-plans/12-benthos.html) </td>
    <td style="text-align:left;"> Quiz 5 </td>
    <td style="text-align:left;">  </td>
   </tr>
@@ -104,15 +104,15 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> T 10/1 </td>
-   <td style="text-align:left;"> Bethic sampling </td>
+   <td style="text-align:left;"> [Catch-up](https://mrne392.github.io/lesson-plans/13-catch-up.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/3 </td>
-   <td style="text-align:left;"> Pelagic sampling </td>
-   <td style="text-align:left;"> Quiz 6 </td>
-   <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
+   <td style="text-align:left;"> Benthic sampling </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/3 </td>
@@ -128,14 +128,14 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/10 </td>
-   <td style="text-align:left;"> SAV sampling and benthic data analysis </td>
-   <td style="text-align:left;"> Quiz 7; [Lab report 1](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing) due in class </td>
+   <td style="text-align:left;"> Pelagic sampling </td>
+   <td style="text-align:left;"> Quiz 6; [Lab report 1](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing) due in class </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/10 </td>
    <td style="text-align:left;"> Lab 7: SAV sample processing and benthic data analysis </td>
-   <td style="text-align:left;"> Quiz 8: SAV species ID </td>
+   <td style="text-align:left;"> Quiz 7: SAV species ID </td>
    <td style="text-align:left;"> We will be indoors. </td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:left;"> T 10/22 </td>
    <td style="text-align:left;"> Oceanographic variables </td>
-   <td style="text-align:left;"> Quiz 9 </td>
+   <td style="text-align:left;"> Quiz 8 </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
@@ -183,13 +183,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:left;"> Th 10/31 </td>
    <td style="text-align:left;"> More coastal physics </td>
-   <td style="text-align:left;"> Quiz 10 </td>
+   <td style="text-align:left;"> Quiz 9 </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/31 </td>
    <td style="text-align:left;"> Lab 9: Chemical and physical instrument retrieval and data download </td>
-   <td style="text-align:left;"> Quiz 11: [Knot-tying](https://mrne392.github.io/assessment/knot-tying.html) </td>
+   <td style="text-align:left;"> Quiz 10: [Knot-tying](https://mrne392.github.io/assessment/knot-tying.html) </td>
    <td style="text-align:left;"> Wear comfortable outdoor clothing. Be prepared to spend most of the  afternoon outside. </td>
   </tr>
   <tr>
@@ -201,7 +201,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:left;"> Th 11/7 </td>
    <td style="text-align:left;"> Physical and chemical data analysis </td>
-   <td style="text-align:left;"> Quiz 12 </td>
+   <td style="text-align:left;"> Quiz 11 </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
@@ -219,7 +219,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:left;"> Th 11/14 </td>
    <td style="text-align:left;"> Physical and chemical data analysis </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Quiz 12 </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
