@@ -19,6 +19,11 @@ This is the homepage for ENST/MRNE 392 Field Research Methods taught by Dr. Cass
 
 This website was built with the [bookdown](https://bookdown.org/yihui/bookdown) R package with help from [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/). 
 
+### Quick links {-}
+
+* [Class slides and materials](https://drive.google.com/drive/folders/1A1BKo5SIcn_bMJlgLz4NALcflAqqoPVd?usp=sharing)
+* [Marsh lab data folder](https://drive.google.com/drive/folders/1V54Fckddxa9uEvRUFYMo4Ux1ReRa8och?usp=sharing)
+* [Marsh lab procedures](https://drive.google.com/drive/folders/1lHouLH2q0fhekwGm9zjF8ssV7rdp6hya?usp=sharing)
 
 
 
