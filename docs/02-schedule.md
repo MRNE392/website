@@ -110,7 +110,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/3 </td>
-   <td style="text-align:left;"> Benthic sampling </td>
+   <td style="text-align:left;"> [Benthic sampling](https://mrne392.github.io/lesson-plans/14-benthic-sampling.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
