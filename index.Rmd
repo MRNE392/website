@@ -24,6 +24,7 @@ This website was built with the [bookdown](https://bookdown.org/yihui/bookdown) 
 * [Class slides and materials](https://drive.google.com/drive/folders/1A1BKo5SIcn_bMJlgLz4NALcflAqqoPVd?usp=sharing)
 * [Marsh lab data folder](https://drive.google.com/drive/folders/1V54Fckddxa9uEvRUFYMo4Ux1ReRa8och?usp=sharing)
 * [Marsh lab procedures](https://drive.google.com/drive/folders/1lHouLH2q0fhekwGm9zjF8ssV7rdp6hya?usp=sharing)
+* [Mysid data](https://docs.google.com/spreadsheets/d/1fHhcmFV_zDn23SuqXp8ZTObDA0lNyqpk/edit?gid=1258031574#gid=1258031574)
 
 
 
