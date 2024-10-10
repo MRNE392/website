@@ -21,6 +21,7 @@ This website was built with the [bookdown](https://bookdown.org/yihui/bookdown) 
 
 ### Quick links {-}
 
+* [Student wiki](https://docs.google.com/document/d/1atysHk7kMUKcjLBKpaiEVVlboVIn8usfJ-EjapBJA-U/edit?usp=sharing)
 * [Class slides and materials](https://drive.google.com/drive/folders/1A1BKo5SIcn_bMJlgLz4NALcflAqqoPVd?usp=sharing)
 * [Marsh lab data folder](https://drive.google.com/drive/folders/1V54Fckddxa9uEvRUFYMo4Ux1ReRa8och?usp=sharing)
 * [Marsh lab procedures](https://drive.google.com/drive/folders/1lHouLH2q0fhekwGm9zjF8ssV7rdp6hya?usp=sharing)
