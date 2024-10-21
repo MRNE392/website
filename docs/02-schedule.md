@@ -158,13 +158,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> T 10/22 </td>
-   <td style="text-align:left;"> Oceanographic variables </td>
+   <td style="text-align:left;"> [Oceanographic variables](https://mrne392.github.io/lesson-plans/17-ocean-variables.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/24 </td>
-   <td style="text-align:left;"> Physical and chemical sampling </td>
+   <td style="text-align:left;"> [Hydrologic sampling methods](https://mrne392.github.io/lesson-plans/18-hydrologic-methods.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
