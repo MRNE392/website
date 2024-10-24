@@ -170,25 +170,25 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/24 </td>
-   <td style="text-align:left;"> Lab 8: Chemical &amp; physical sampling: Instrument programming and deployment </td>
+   <td style="text-align:left;"> Lab 8: [Hydrologic sampling planning](https://mrne392.github.io/lesson-plans/19-hydrologic-field-study-plan.html) </td>
    <td style="text-align:left;"> [Quiz 7: knot tying](https://mrne392.github.io/assessment/knot-tying.html) </td>
    <td style="text-align:left;"> Wear comfortable outdoor clothing. Be prepared to spend most of the afternoon outside. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 10/29 </td>
-   <td style="text-align:left;"> More coastal physics </td>
+   <td style="text-align:left;"> Hydrologic sampling planning </td>
    <td style="text-align:left;"> [Lab report 2](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing) due in class </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/31 </td>
-   <td style="text-align:left;"> More coastal physics </td>
+   <td style="text-align:left;"> Hydrologic sampling planning </td>
    <td style="text-align:left;"> Quiz 8 </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/31 </td>
-   <td style="text-align:left;"> Lab 9: Chemical and physical instrument retrieval and data download </td>
+   <td style="text-align:left;"> Lab 9: Hydrologic sampling fieldwork </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> Wear comfortable outdoor clothing. Be prepared to spend most of the  afternoon outside. </td>
   </tr>
@@ -206,19 +206,19 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/7 </td>
-   <td style="text-align:left;"> Lab 10: Physical and chemical data analysis </td>
+   <td style="text-align:left;"> Lab 10: Hydrologic sampling fieldwork </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> We will be indoors. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 11/12 </td>
-   <td style="text-align:left;"> Physical and chemical data analysis </td>
+   <td style="text-align:left;"> Hydrologic data analysis </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/14 </td>
-   <td style="text-align:left;"> Physical and chemical data analysis </td>
+   <td style="text-align:left;"> Hydrologic data analysis </td>
    <td style="text-align:left;"> Quiz 10 </td>
    <td style="text-align:left;">  </td>
   </tr>
