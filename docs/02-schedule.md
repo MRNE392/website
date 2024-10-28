@@ -176,9 +176,9 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> T 10/29 </td>
-   <td style="text-align:left;"> Hydrologic sampling planning </td>
+   <td style="text-align:left;"> No class - CBG out sick </td>
    <td style="text-align:left;"> [Lab report 2](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?usp=sharing) due in class </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Please fill out [this spreadsheet](https://docs.google.com/spreadsheets/d/12mjX2OPoZhIaYeV2PQ3UFAC8ydg_2kKZeXzwmPuukt0/edit?usp=sharing) by the end of the day Tuesday 10/29 with your group's deployment gear needs. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/31 </td>
