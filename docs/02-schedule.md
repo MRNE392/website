@@ -182,7 +182,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 10/31 </td>
-   <td style="text-align:left;"> Hydrologic sampling planning </td>
+   <td style="text-align:left;"> [Hydrologic sampling planning](https://mrne392.github.io/lesson-plans/21-field-study-planning.html) </td>
    <td style="text-align:left;"> Quiz 8 </td>
    <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
   </tr>
