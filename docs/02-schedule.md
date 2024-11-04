@@ -194,7 +194,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> T 11/5 </td>
-   <td style="text-align:left;"> More coastal chemistry </td>
+   <td style="text-align:left;"> [Retrieval planning](https://mrne392.github.io/lesson-plans/22-retrieval-planning.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
