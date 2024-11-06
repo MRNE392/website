@@ -90,5 +90,12 @@ The following are extra credit opportunities that you can use for this class. Fo
    <td style="text-align:left;"> [register here](https://umces-edu.zoom.us/webinar/register/WN_M0JlvCygQ0OLDd6-hNbfWQ#/registration) </td>
    <td style="text-align:left;"> Jessica McGlinsey, *Diamondback Terrapins in a Changing Climate* </td>
   </tr>
+  <tr>
+   <td style="text-align:left;"> 11/9 </td>
+   <td style="text-align:left;"> 1:00-4:00 </td>
+   <td style="text-align:left;"> SMCM waterfront </td>
+   <td style="text-align:left;"> Let Emma Green know if you can make it via email (emmasmrwa@gmail.com) or signing up via the [sign-up genius](https://www.signupgenius.com/go/10C0944A5AC2FA5F9C16-52918137-counting) </td>
+   <td style="text-align:left;"> Spat counting with the St. Mary's River Watershed Association </td>
+  </tr>
 </tbody>
 </table>
