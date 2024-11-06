@@ -200,19 +200,19 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/7 </td>
-   <td style="text-align:left;"> Physical and chemical data analysis </td>
+   <td style="text-align:left;"> [Univariate data analysis](https://mrne392.github.io/lesson-plans/23-univariate-analysis.html) </td>
    <td style="text-align:left;"> Quiz 9 </td>
-   <td style="text-align:left;"> Bring your notes for the quiz; notes must be on paper (typed or hand-written) </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/7 </td>
    <td style="text-align:left;"> Lab 10: Hydrologic sampling fieldwork </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> We will be indoors. </td>
+   <td style="text-align:left;"> Wear comfortable outdoor clothing. Be prepared to spend a portion of the  afternoon outside. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 11/12 </td>
-   <td style="text-align:left;"> Hydrologic data analysis </td>
+   <td style="text-align:left;"> [Multivariate data analysis](https://mrne392.github.io/lesson-plans/24-multivariate-analysis.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
@@ -224,7 +224,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/14 </td>
-   <td style="text-align:left;"> Lab 11: Poster workshop I </td>
+   <td style="text-align:left;"> Lab 11: Data analysis and poster workshop I </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> We will be indoors. </td>
   </tr>
@@ -272,13 +272,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> T 12/3 </td>
-   <td style="text-align:left;"> TBA </td>
+   <td style="text-align:left;"> Skills and knowledge inventory </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 12/5 </td>
-   <td style="text-align:left;"> TBA </td>
+   <td style="text-align:left;"> Skills and knowledge inventory </td>
    <td style="text-align:left;"> Quiz 12 </td>
    <td style="text-align:left;">  </td>
   </tr>
