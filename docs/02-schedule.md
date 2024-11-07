@@ -200,13 +200,13 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/7 </td>
-   <td style="text-align:left;"> [Univariate data analysis](https://mrne392.github.io/lesson-plans/23-univariate-analysis.html) </td>
+   <td style="text-align:left;"> [Chasing Coral](https://mrne392.github.io/lesson-plans/23-univariate-analysis.html) </td>
    <td style="text-align:left;"> Quiz 9 </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/7 </td>
-   <td style="text-align:left;"> Lab 10: Hydrologic sampling fieldwork </td>
+   <td style="text-align:left;"> [Lab 10: Hydrologic sampling fieldwork](https://mrne392.github.io/lesson-plans/23-lab-logger-retrieval.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> Wear comfortable outdoor clothing. Be prepared to spend a portion of the  afternoon outside. </td>
   </tr>
