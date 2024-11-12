@@ -212,19 +212,19 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> T 11/12 </td>
-   <td style="text-align:left;"> [Multivariate data analysis](https://mrne392.github.io/lesson-plans/24-multivariate-analysis.html) </td>
+   <td style="text-align:left;"> [Hydrologic data analysis](https://mrne392.github.io/lesson-plans/24-hydro-data-analysis.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/14 </td>
-   <td style="text-align:left;"> Hydrologic data analysis </td>
+   <td style="text-align:left;"> [Hydrologic data analysis cont.](https://mrne392.github.io/lesson-plans/25-hydro-data-analysis-cont.html) </td>
    <td style="text-align:left;"> Quiz 10 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Quiz is open-notes </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/14 </td>
-   <td style="text-align:left;"> Lab 11: Data analysis and poster workshop I </td>
+   <td style="text-align:left;"> [Lab 11: Data analysis and poster workshop I](https://mrne392.github.io/lesson-plans/26-hydro-data-analysis-posters.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> We will be indoors. </td>
   </tr>
@@ -267,8 +267,8 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:left;"> M 12/2 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> [Poster](https://mrne392.github.io/assessment/poster.html) due to printer; hard deadline </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [Poster](https://mrne392.github.io/assessment/poster.html) due to for printing; hard deadline </td>
+   <td style="text-align:left;"> Submit poster file [here](https://drive.google.com/drive/folders/1mnE_qry0ktrRoj5ea9amTtzXqdi2sr3v?usp=sharing) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> T 12/3 </td>
