@@ -37,10 +37,10 @@ This course uses a variation of "specifications grading," where we rely less on 
 
 The following outlines the grading system:
 
-* **A** Meet specs on: at least 10/12 quizzes, 3/3 lab reports, and poster
-* **B** Meet specs on: at least 9/12 quizzes, 2/3 lab reports, and poster
-* **C** Meet specs on: at least 8/12 quizzes, 2/3 lab reports, and poster
-* **D** Meet specs on: at least 7/12 quizzes, 1/3 lab reports, and poster 
+* **A** Meet specs on: at least 9/10 quizzes, 3/3 lab reports, and poster
+* **B** Meet specs on: at least 8/10 quizzes, 2/3 lab reports, and poster
+* **C** Meet specs on: at least 7/10 quizzes, 2/3 lab reports, and poster
+* **D** Meet specs on: at least 6/10 quizzes, 1/3 lab reports, and poster 
 * **F** Does not meet one or more of the requirements to earn a D, and/or student has 6 or more unexplained absences 
 
 **Quizzes**
