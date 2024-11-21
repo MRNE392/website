@@ -236,8 +236,8 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 11/21 </td>
-   <td style="text-align:left;"> Poster work session </td>
-   <td style="text-align:left;"> Quiz 11 </td>
+   <td style="text-align:left;"> [Group work session](https://mrne392.github.io/lesson-plans/28-group-work-session.html) </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -279,7 +279,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:left;"> Th 12/5 </td>
    <td style="text-align:left;"> Skills and knowledge inventory </td>
-   <td style="text-align:left;"> Quiz 12 </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>

@@ -28,6 +28,7 @@ This website was built with the [bookdown](https://bookdown.org/yihui/bookdown) 
 * [Mysid data](https://docs.google.com/spreadsheets/d/1fHhcmFV_zDn23SuqXp8ZTObDA0lNyqpk/edit?gid=1258031574#gid=1258031574)
 * [Hydrologic SOPs](https://smr-monitoring.github.io/MRNE395-2024FA/sops.html)
 * [Hydrologic field study folder](https://drive.google.com/drive/u/0/folders/1wtrXccYT4a-26WlzA1wwQgkIST36K7t7)
+* [Poster info and folders](https://drive.google.com/drive/folders/1863RanHSeoydJAx8f_UEz_1qiIuW3zyb?usp=drive_link)
 
 
 
