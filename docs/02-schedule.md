@@ -249,7 +249,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:left;"> T 11/26 </td>
    <td style="text-align:left;"> Poster work session </td>
-   <td style="text-align:left;"> [Lab report 3](https://mrne392.github.io/assessment/lab-report-3.html) due in class </td>
+   <td style="text-align:left;"> [Lab report 3](https://docs.google.com/document/d/1F6b2qSFbESrm1Hhu7xn3AIkZWvM4GQecbj_fWf65vFY/edit?tab=t.0) due in class </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
