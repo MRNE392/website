@@ -272,7 +272,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> T 12/3 </td>
-   <td style="text-align:left;"> Skills and knowledge inventory </td>
+   <td style="text-align:left;"> [Poster practice](https://mrne392.github.io/lesson-plans/29-poster-practice.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
