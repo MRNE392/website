@@ -278,21 +278,21 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:left;"> Th 12/5 </td>
-   <td style="text-align:left;"> Skills and knowledge inventory </td>
+   <td style="text-align:left;"> [Skills and knowledge inventory](https://mrne392.github.io/lesson-plans/30-wrap-up.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Th 12/5 </td>
    <td style="text-align:left;"> Lab 13: Poster presentation practice </td>
-   <td style="text-align:left;"> Bring your printed [poster](https://mrne392.github.io/assessment/poster.html) to lab </td>
+   <td style="text-align:left;"> I will bring your printed [posters](https://mrne392.github.io/assessment/poster.html) to lab </td>
    <td style="text-align:left;"> We will be indoors. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> F 12/6 </td>
    <td style="text-align:left;"> Fall poster symposium: ARC 11:30-1:00 </td>
    <td style="text-align:left;"> [Poster](https://mrne392.github.io/assessment/poster.html) presentation </td>
-   <td style="text-align:left;"> Attendance is mandatory; this will take the place of our scheduled final exam time </td>
+   <td style="text-align:left;"> Attendance is mandatory; this will take the place of our scheduled final exam time. Check [this spreadsheet](https://docs.google.com/spreadsheets/d/1mh9wwvnB_G9_QXD71zr4qcamEk3v0I3HWuSnIxFPPjY/edit?gid=0#gid=0) for your board number and time slot. </td>
   </tr>
 </tbody>
 </table>
